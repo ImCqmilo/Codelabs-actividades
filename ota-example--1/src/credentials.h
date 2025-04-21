@@ -1,0 +1,2 @@
+#define MI_WIFI "TIGO-409F"
+#define MI_PASS "4NJ567300800"
